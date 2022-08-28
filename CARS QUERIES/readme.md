@@ -19,7 +19,7 @@ collection:car
 
 
 #Men who either have a Red or Green car and either live in Germany or Kenya
-==>db.car.find({$and:[{gender:"Male"},{$or:[{car_color:"Red"},{car_color:"Green"}]},{$or:[{country:"Germany"},{country:"Kenya"}]}]})
+     #==>db.car.find({$and:[{gender:"Male"},{$or:[{car_color:"Red"},{car_color:"Green"}]},{$or:[{country:"Germany"},{country:"Kenya"}]}]})
 
 
 #People from India who purchased cars in the year 2001
