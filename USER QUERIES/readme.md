@@ -3,7 +3,6 @@ Collection - users
 
 #Find all the female users
 
-
 #Find all the female users who speak one of the two languages Kannada, Hindi
 
 
